@@ -1,4 +1,4 @@
-package com.service.parcel.parcelsrvc;
+package com.application.parcel.parcelsrvc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
