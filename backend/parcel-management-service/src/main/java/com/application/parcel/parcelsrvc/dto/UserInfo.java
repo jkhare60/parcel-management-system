@@ -7,6 +7,6 @@ import lombok.NoArgsConstructor;
 @Getter
 @Setter
 @NoArgsConstructor
-public class UserDetails {
+public class UserInfo {
 private String name;
 }
